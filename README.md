@@ -1,1 +1,1 @@
-# clear-array-from-values
+# Javascript: Clear array from unwanted values or any value
